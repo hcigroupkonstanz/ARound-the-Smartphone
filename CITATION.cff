@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+title: "ARound the Smartphone: Investigating the Effects of Virtually-Extended Display Size on Spatial Memory"
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Sebastian
+    family-names: Hubenschmid
+    email: Sebastian.Hubenschmid@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0002-8704-8503'
+  - given-names: Johannes
+    family-names: Zagermann
+    email: Johannes.Zagermann@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0002-6757-9753'
+  - given-names: Daniel
+    family-names: Leicht
+    email: Daniel.Leicht@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0002-4537-8483'
+  - given-names: Harald
+    family-names: Reiterer
+    email: Harald.Reiterer@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0001-8528-8928'
+  - given-names: Tiare
+    family-names: Feuchtner
+    email: Tiare.Feuchtner@uni-konstanz.de
+    orcid: 'https://orcid.org/0000-0002-9922-5538'
+    affiliation: 'HCI Group, University of Konstanz & Aarhus University'
+preferred-citation:
+  type: conference-paper
+  authors:
+  - given-names: Sebastian
+    family-names: Hubenschmid
+    email: Sebastian.Hubenschmid@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0002-8704-8503'
+  - given-names: Johannes
+    family-names: Zagermann
+    email: Johannes.Zagermann@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0002-6757-9753'
+  - given-names: Daniel
+    family-names: Leicht
+    email: Daniel.Leicht@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0002-4537-8483'
+  - given-names: Harald
+    family-names: Reiterer
+    email: Harald.Reiterer@uni-konstanz.de
+    affiliation: 'HCI Group, University of Konstanz'
+    orcid: 'https://orcid.org/0000-0001-8528-8928'
+  - given-names: Tiare
+    family-names: Feuchtner
+    email: Tiare.Feuchtner@uni-konstanz.de
+    orcid: 'https://orcid.org/0000-0002-9922-5538'
+    affiliation: 'HCI Group, University of Konstanz & Aarhus University'
+  doi: "10.1145/3544548.3581438"
+  title: "ARound the Smartphone: Investigating the Effects of Virtually-Extended Display Size on Spatial Memory"
+  year: 2023
+  address: "New York, NY, USA"
+  booktitle: "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+  location: "Hamburg, Germany"
+  series: "CHI '23"
+  numpages: 15
+repository-code: 'https://github.com/hcigroupkonstanz/ARound-the-Smartphone'
