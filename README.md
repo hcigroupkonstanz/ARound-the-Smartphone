@@ -26,7 +26,7 @@ To cite, please use:
 @inproceedings{hubenschmid2023around,
   year={2023},
   doi={https://doi.org/10.1145/3544548.3581438},
-  title={ARound the Smartphone: Investigating the Efects of Virtually-Extended Display Size on Spatial Memory},
+  title={ARound the Smartphone: Investigating the Effects of Virtually-Extended Display Size on Spatial Memory},
   publisher={ACM},
   address={New York, NY, USA},
   booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23)},
