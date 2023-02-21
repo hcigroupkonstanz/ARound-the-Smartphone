@@ -7,7 +7,7 @@
         •
         <a href="https://doi.org/10.18419/darus-3326">Study Data</a>
         •
-        <a>Video (TBD)</a>
+        <a href="https://youtu.be/p6cHwLxHWJg">Video</a>
         •
         <a>Presentation (TBD)</a>
     </strong>
@@ -19,14 +19,18 @@ This is the code repository of the CHI'23 publication:
 
 > Sebastian Hubenschmid, Johannes Zagermann, Daniel Leicht, Harald Reiterer, and Tiare Feuchtner. 2023. ARound the Smartphone: Investigating the Effects of Virtually-Extended Display Size on Spatial Memory. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 15 pages. https://doi.org/10.1145/3544548.3581438
 
-**Project source code will be available soon.**
-
 For questions or feedback, please contact [Sebastian Hubenschmid](https://hci.uni-konstanz.de/members/research-assistants/sebastian-hubenschmid/) ([GitHub](https://github.com/SebiH)).
 
 To cite, please use:
 ```bibtex
 @inproceedings{hubenschmid2023around,
-    TBD
+  year={2023},
+  doi={https://doi.org/10.1145/3544548.3581438},
+  title={ARound the Smartphone: Investigating the Efects of Virtually-Extended Display Size on Spatial Memory},
+  publisher={ACM},
+  address={New York, NY, USA},
+  booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23)},
+  author={Hubenschmid, Sebastian and Zagermann, Johannes and Leicht, Daniel and Reiterer, Harald and Feuchtner, Tiare}
 }
 ```
 
