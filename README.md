@@ -23,14 +23,20 @@ For questions or feedback, please contact [Sebastian Hubenschmid](https://hci.un
 
 To cite, please use:
 ```bibtex
-@inproceedings{hubenschmid2023around,
-  year={2023},
-  doi={https://doi.org/10.1145/3544548.3581438},
-  title={ARound the Smartphone: Investigating the Effects of Virtually-Extended Display Size on Spatial Memory},
-  publisher={ACM},
-  address={New York, NY, USA},
-  booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23)},
-  author={Hubenschmid, Sebastian and Zagermann, Johannes and Leicht, Daniel and Reiterer, Harald and Feuchtner, Tiare}
+@inproceedings{hubenschmid2023smartphone,
+  title = {{{ARound}} the {{Smartphone}}: {{Investigating}} the {{Effects}} of {{Virtually-Extended Display Size}} on {{Spatial Memory}}},
+  shorttitle = {{{ARound}} the {{Smartphone}}},
+  booktitle = {Proceedings of the 2023 {{CHI Conference}} on {{Human Factors}} in {{Computing Systems}}},
+  author = {Hubenschmid, Sebastian and Zagermann, Johannes and Leicht, Daniel and Reiterer, Harald and Feuchtner, Tiare},
+  year = {2023},
+  month = apr,
+  pages = {1--15},
+  publisher = {{ACM}},
+  address = {{Hamburg Germany}},
+  doi = {10.1145/3544548.3581438},
+  urldate = {2023-04-22},
+  isbn = {978-1-4503-9421-5},
+  langid = {english}
 }
 ```
 
