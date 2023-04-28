@@ -9,7 +9,7 @@
         •
         <a href="https://youtu.be/p6cHwLxHWJg">Video</a>
         •
-        <a>Presentation (TBD)</a>
+        <a href="https://www.youtube.com/watch?v=4boLfuMl63Y">Presentation</a>
     </strong>
 </p>
 
